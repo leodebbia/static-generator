@@ -92,6 +92,7 @@ a{color : green;}
   border-bottom: .06rem solid #eee;
 }
 .blog-title {
+  margin-left: 12rem;
   margin-bottom: 0;
   font-size: 2rem;
   font-weight: 400;
